@@ -8,6 +8,10 @@ La automatización de procesos se ha convertido en una herramienta clave para au
 
 Teniendo esto encuenta se ha desarrollado la implementación de la automatización del proceso de empaque de mandarinas de exportación para la empresa Fruver1A S.A.
 
+## Proceso a automatizar: 
+
+unos operarios reciben contenedores  con las  cosechas.  Seguido,  los  operarios colocan lasmandarinascon  calidad  de  exportación  (sin manchas,  grandes)sobre  una primera banda  transportadora.Otros  operarios recogenlas mandarinasde  laprimerabanda y las empacandentro de cajas, de a 50 mandarinascada una. Las cajas(vacías)están dispuestassobre una  segunda banda  transportadora,activada  de  forma  manual por  un  operarioa  medida  que  se  van llenandolascajas,para su posterior alistamiento y despacho. Las mandarinasque no son de exportación, pasan por un proceso similarpara el consumo local. Con la automatización, se busca aumentar la producción con calidad de exportación a 100 cajas diarias.
+
 
 ## Requerimientos del proyecto:
 
