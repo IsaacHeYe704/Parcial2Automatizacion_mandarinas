@@ -48,7 +48,9 @@ Los siguientes pasos se llevaron a cabo para implementar el diseño de la soluci
 
 1.	Identifiación de entradas salidas y variables internas:
 
-2.	
+2.	Diseño del diagrama de estados para indentificar los estados de las entradas y salidas del proceso
+
+3. diseño de la logica lader
 
 **Definición de variables en CODESYS:**
 
@@ -63,8 +65,6 @@ Los siguientes pasos se llevaron a cabo para implementar el diseño de la soluci
 
 
 
-3.	Se diseño el código ladder en OpenPLC el cual nos permitió conectar la lógica del circuito con 
-
 **Definición de las variables en PLC: **
    
 
@@ -72,9 +72,14 @@ Los siguientes pasos se llevaron a cabo para implementar el diseño de la soluci
 **Diseño del sistema PLC: **
 
 
+4. Diseño del diagrama de las conecciones electrcas
+
+
+
+
  
 
-4.	Prototipo fisico: 
+5.	Prototipo fisico: 
 
 
 
