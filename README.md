@@ -1,6 +1,6 @@
 # Parcial 2 de automatización y control de procesos.
 
-*Isaac Herrera Yepes, Nicolas Canchon y Sebastian Rivera*
+*Isaac Herrera Yepes, Nicolas Canchon,Laura mayork y Sebastian Rivera*
 
 ## Introducción 
 
