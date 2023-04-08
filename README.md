@@ -51,7 +51,9 @@ Los siguientes pasos se llevaron a cabo para implementar el diseño de la soluci
 
 ![Diagrama de variables](/diagramas/diagrama%20de%20variables.png)
 
-2.	Diseño del diagrama de estados para indentificar los estados de las entradas y salidas del proceso
+2.	Diseño del diagrama de estados para indentificar los estados de las entradas y salidas del proceso:
+
+![Diagrama de estados](/diagramas/diagramaDeEstados.png)
 
 3. diseño de la logica lader
 
