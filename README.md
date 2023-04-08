@@ -47,6 +47,8 @@
 Los siguientes pasos se llevaron a cabo para implementar el diseño de la solución:
 
 1.	Identifiación de entradas, salidas y variables internas:
+
+
 ![Diagrama de variables](/diagramas/diagrama%20de%20variables.png)
 
 2.	Diseño del diagrama de estados para indentificar los estados de las entradas y salidas del proceso
