@@ -4,6 +4,9 @@
 
 ## Introducción 
 
+La automatización de procesos se ha convertido en una herramienta clave para aumentar la eficiencia y la productividad en todo tipo de organizaciones. Esta tecnología consiste en la aplicación de software y hardware para realizar tareas repetitivas y monótonas de forma autónoma, lo que permite que los empleados se centren en tareas de mayor valor agregado y creatividad. La automatización de procesos puede utilizarse en diversas áreas, desde la fabricación hasta la atención al cliente, pasando por la gestión de recursos humanos y finanzas. Gracias a sus beneficios, cada vez son más las empresas que están implementando esta tecnología en sus procesos, con el objetivo de mejorar su competitividad y adaptarse a un entorno cada vez más digitalizado.
+
+Teniendo esto encuenta se ha desarrollado la implementación de la automatización del proceso de empaque de mandarinas de exportación para la empresa Fruver1A S.A.
 
 
 ## Requerimientos del proyecto:
