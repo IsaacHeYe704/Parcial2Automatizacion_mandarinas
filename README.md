@@ -93,3 +93,4 @@ Los siguientes pasos se llevaron a cabo para implementar el diseño de la soluci
 
 
 [![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](https://youtu.be/T-D1KVIuvjA)
+[![Texto alternativo](ruta/al/video.png)](ruta/al/video.mp4)
