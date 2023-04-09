@@ -74,17 +74,13 @@ Los siguientes pasos se llevaron a cabo para implementar el diseño de la soluci
  
 
 
-
-
-
-**Definición de las variables en PLC: **
    
 
 
 **Diseño del sistema PLC: **
 
 
-4. Diseño del diagrama de las conecciones electrcas
+4. Diseño del diagrama de las conecciones electricas
 
 
 
@@ -95,8 +91,5 @@ Los siguientes pasos se llevaron a cabo para implementar el diseño de la soluci
 
 
 
-
-
-**Diagrama de actividades: **
 
 [![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](https://youtu.be/T-D1KVIuvjA)
